@@ -70,12 +70,12 @@ export default function StrategyPage() {
                   <h2 className="text-2xl font-bold text-amber-400 mb-3">2. Create “Papered” Value</h2>
                   <p className="opacity-90">
                     Our expertise in real estate, law, and permitting allows us to move quickly through:
-                    <ul>
+                    
     <li><strong>Zoning &amp; conditional use approvals</strong></li>
     <li><strong>CEQA compliance &amp; environmental studies</strong></li>
     <li><strong>Interconnection applications</strong></li>
     <li><strong>Fire and safety plans (NFPA 855-compliant)</strong></li>
-  </ul>
+  
                   </p>
                 </div>
 
@@ -92,8 +92,7 @@ export default function StrategyPage() {
               </div>
 
               <p className="opacity-90">
-                By minimizing risk and maximizing flexibility, our strategy turns complexity into opportunity—and brings
-                much-needed infill development to life.
+                
               </p>
             </div>
 
