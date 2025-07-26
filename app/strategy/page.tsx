@@ -69,25 +69,13 @@ export default function StrategyPage() {
                 <div>
                   <h2 className="text-2xl font-bold text-amber-400 mb-3">2. Create “Papered” Value</h2>
                   <p className="opacity-90">
-                    Our expertise in real estate, law, and permitting allows us to move quickly through:
-                    
-    <li><strong>Zoning &amp; conditional use approvals</strong></li>
-    <li><strong>CEQA compliance &amp; environmental studies</strong></li>
-    <li><strong>Interconnection applications</strong></li>
-    <li><strong>Fire and safety plans (NFPA 855-compliant)</strong></li>
-  
+                    Our expertise in real estate, law, and permitting allows us to move quickly.
                   </p>
                 </div>
 
                 <div>
                   <h2 className="text-2xl font-bold text-amber-400 mb-3">3. Exit to Developers & Operators</h2>
-                  <p className="opacity-90">Once entitled and “power-ready,” we sell or joint-venture with:</p>
-                  <ul className="list-disc pl-6 mt-2 space-y-2 opacity-90">
-                    
-    <li>Independent power producers (IPPs)</li>
-    <li>Data-center operators</li>
-    <li>Battery storage and renewable developers</li>
-  </ul>
+                  <p className="opacity-90">Once entitled and “power-ready,” we sell or joint-venture.</p>
                 </div>
               </div>
 
